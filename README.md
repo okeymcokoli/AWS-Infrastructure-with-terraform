@@ -2,7 +2,7 @@
 
 This repository contains a Terraform configuration to deploy a simple web application infrastructure on AWS. The infrastructure consists of a VPC, public subnets, EC2 instances, an Application Load Balancer (ALB), security groups, and associated networking components. The goal is to provision a scalable and highly available web environment with load balancing.
 
-![Terraform Infrastructure](assets/Infrastructure-with-terraform.png)
+![Terraform Infrastructure](./assets/Infrastructure-with-terraform.png)
 
 ## Table of Contents
 

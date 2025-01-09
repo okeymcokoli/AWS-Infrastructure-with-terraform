@@ -1,0 +1,15 @@
+variable "vpc-name" {}
+variable "azs" {}
+variable "cidr_block" {}
+variable "igw-name" {}
+variable "rt-name" {}
+variable "subnet-name" {}
+variable "sg-name" {}
+variable "instance-name" {}
+variable "instance-name-2" {}
+variable "key-name" {}
+variable "iam-role" {}
+variable "ami" {}
+variable "instance-type" {}
+variable "alb-name" {}
+variable "tg-name" {}
